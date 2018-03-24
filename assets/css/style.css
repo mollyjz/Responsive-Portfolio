@@ -350,6 +350,10 @@ input[type=submit] {
     margin-left: 10px;
   }   
 
+header {
+  position: static;
+}
+
   #sidebar {
     width: 100%;
     display: block;
